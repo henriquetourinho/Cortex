@@ -7,8 +7,7 @@
 Cortex é uma aplicação de desktop avançada, escrita em Python, que oferece uma visão profunda e um controle granular sobre sistemas operacionais baseados em Debian.
 
 *(Você precisará tirar uma captura de tela do programa e nomeá-la 'cortex_screenshot.png' para que ela apareça aqui)*
-![Screenshot do Cortex](https://raw.githubusercontent.comhenriquetourinho/Cortex/refs/heads/main/media/cortex.jpg?raw=true))
-
+![Screenshot do Cortex](https://github.com/henriquetourinho/Cortex/blob/main/media/cortex.jpg?raw=true)
 ---
 
 ### Sobre o Projeto
