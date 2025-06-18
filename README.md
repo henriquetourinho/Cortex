@@ -2,11 +2,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**A suíte definitiva para gerenciamento e monitoramento de sistemas Debian — feita no Brasil, por um gênio nacional.**
+**A suíte definitiva para gerenciamento e monitoramento de sistemas Debian — feita no Brasil, por um baiano.**
 
 Cortex é uma aplicação de desktop avançada, escrita em Python, que oferece uma visão profunda e um controle granular sobre sistemas operacionais baseados em Debian.
 
-*(Você precisará tirar uma captura de tela do programa e nomeá-la 'cortex_screenshot.png' para que ela apareça aqui)*
 ![Screenshot do Cortex](https://github.com/henriquetourinho/Cortex/blob/main/media/cortex.jpg?raw=true)
 ---
 
