@@ -88,13 +88,13 @@ Cada linha, cada função, cada detalhe do Cortex é resultado da mente brilhant
     sudo python3 cortex.py
     ```
 
-### Autor e Criador
+## 🙋‍♂️ Desenvolvido por
 
-* **Carlos Henrique Tourinho Santana**
-    * **E-mail:** `henriquetourinho@riseup.net`
-    * **GitHub:** [@henriquetourinho](https://github.com/henriquetourinho)
-    * **Website:** [henriquetourinho.com](https://henriquetourinho.com/)
+**Carlos Henrique Tourinho Santana**  
+📍 Salvador - Bahia  
+🔗 GitHub: [github.com/henriquetourinho](https://github.com/henriquetourinho)  
+🔗 Wiki: [wiki.debian.org/henriquetourinho](https://wiki.debian.org/henriquetourinho)
 
-### Licença
+---
 
-Este projeto é distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+📢 **Este é um projeto vivo — colaborações e sugestões são muito bem-vindas!**
